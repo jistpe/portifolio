@@ -1,0 +1,30 @@
+body {
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+}
+
+footer {
+	margin-top: 15px;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-logo {
+	margin-top: 20px;
+	width: 60px;
+}
+
+.css-validator {
+	border:0;width:88px;height:31px
+}
+
+.mg-left-15 {
+	margin-left: 15px;
+}
